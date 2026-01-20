@@ -49,7 +49,8 @@ DB_PASSWORD=tu_contrase¤a
 php artisan migrate
 php artisan db:seed
 ```
-Uso
+## Uso
+
 Ver datos en Tinker:
 ```bash
 php artisan tinker
