@@ -23,7 +23,7 @@ Proyecto de Laravel que demuestra relaciones muchos a muchos entre Alumnos y Mat
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/ModelsLaravel.git
+git clone https://github.com/KameHelen/ModelsLaravel.git
 cd ModelsLaravel
 ```
 2. Instalar dependencias:
